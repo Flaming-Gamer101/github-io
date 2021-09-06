@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>Ishtar Collective Podcast — Series &mdash; Ishtar Collective &mdash; Destiny Lore by subject</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" media="all" href="/assets/levante/levante-f3a6507845b26dc421c515885a7a96a3ebcae51e9ba66316280c60daa25ceb35.css" data-turbolinks-track="true" />
+    <script src="/assets/levante/levante-3366b85fe91efe719b42f5af8f456c6a9a6fdd931cea175ef180fd072e7f93e4.js" data-turbolinks-track="true"></script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="7PtzdYSoDUvcwOj5aB0MDZnFoZLqOKNsP7HR0bZFqQix8GZErMKQp1Oe+7EuUXTxXFHTD8vayLZ4kUvMsJlZ9Q==" />
+    <link rel="icon" type="image/png" href="/assets/ishtar_icon-753bf2fc76e448fb82c8db0239f65c581ea5f82c1e6b4a5d308a8c2f047a43bf.png">
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/7ee163eb-2a40-46c5-b504-957fa48df1c8.css"/>
+    <link rel="search" type="application/opensearchdescription+xml" title="Ishtar Collective" href="/opensearch.xml">
+    <link rel="preconnect" href="https://static.ishtar-collective.net/" crossorigin>
+
+<link rel="dns-prefetch" href="https://static.ishtar-collective.net/">
+<link rel="dns-prefetch" href="https://stats.ishtar-collective.net/">
+<link rel="dns-prefetch" href="https://fast.fonts.net/">
+
+    <link rel="icon" sizes="192x192" href="https://static.ishtar-collective.net/icons/ishtar_192.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://static.ishtar-collective.net/icons/ishtar_180.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.ishtar-collective.net/icons/ishtar_152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.ishtar-collective.net/icons/ishtar_144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.ishtar-collective.net/icons/ishtar_120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.ishtar-collective.net/icons/ishtar_114.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.ishtar-collective.net/icons/ishtar_76.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.ishtar-collective.net/icons/ishtar_72.png">
+<link rel="apple-touch-icon-precomposed" href="https://static.ishtar-collective.net/icons/ishtar_57.png">
+
+      <script type="text/javascript" src="https://stats.ishtar-collective.net/stats.js"></script>
+    <meta name='twitter:card' content='summary' />
+<meta name='twitter:site' content='@IshtarColl' />
+<meta name='twitter:description' content='Destiny Lore by subject' />
+<meta name='twitter:title' content='Ishtar Collective' />
+<meta name='twitter:url' content='https://www.ishtar-collective.net' />
+<meta name='twitter:image' content='https://static.ishtar-collective.net/icons/ishtar_on_blue.png' />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.ishtar-collective.net","name":"Ishtar Collective","description":"Destiny Lore by subject","image":"https://static.ishtar-collective.net/icons/ishtar_on_blue.png","potentialAction":{"@type":"SearchAction","target":"https://www.ishtar-collective.net/search/{search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="description" content="Destiny Lore by subject">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://connect.soundcloud.com/sdk/sdk-3.1.2.js"></script>
+
+    <meta property="og:url" content="https://www.ishtar-collective.net/series/podcast" /><link href="https://www.ishtar-collective.net/series/podcast" rel="canonical" />  </head>
+  <body class="
+    page-series page-series-show
+    ">
+
+
+    <div class="header">
+      <div class="menu-control">
+        <span>&#9776;</span>
+      </div>
+      <ul>
+        <li class="home">
+          <a class="header-icon " href="/"><span class="icon-ishtar"></span></a>
+          <a href="/"><span class="text-ishtar">The Ishtar Collective</span></a>
+        </li>
+        <li><a href="/categories">Categories</a></li>
+        <li><a href="/releases">Releases</a></li>
+        <li><a href="/books">Books</a></li>
+        <li><a href="/episodes">Episodes</a></li>
+        <li><a href="https://errata.ishtar-collective.net">Blog</a></li>
+        <li><a href="https://commons.ishtar-collective.net">Forum</a></li>
+        <li><a href="/timeline">Timeline</a></li>
+        <li><a href="https://store.ishtar-collective.net">Store</a></li>
+        <li class="search">
+          <form class="navbar-form" role="search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+            <div class="form-group">
+              <input type="text" name="ishtar_header_search" id="ishtar_header_search" placeholder="SEARCH" class="form-control" required="required" />
+            </div>
+</form>        </li>
+      </ul>
+    </div>
+    <script>
+      try {
+        IshtarStats.recordPageview();
+      } catch(e) {}
+    </script>
+    
+<div class="grid-11 wrapper">
+  <h2 class="col-11">
+    <a href="/series/podcast">Ishtar Collective Podcast</a>
+    
+  </h2>
+</div>
+
+<div class="grid-11 wrapper flat">
+  <div class="left-column col-3 sidebar">
+    <div class="sidebar-section">
+      <div class="section-title">
+        Details
+      </div>
+      <div class="section-data">
+        <ul>
+          <li>15 episodes</li>
+            <li>From 2016.12.10 to 2017.11.13</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col-8">
+      <div class="introduction">
+        Join Baxter, Purple Chimera and Normalnorman as they untangle the lore of Destiny and occasionally write summaries.
+      </div>
+      <div class="description">
+        <p>As we have built up the content of the Ishtar Collective since its launch, we&#39;ve had a number of discussions around what kind of categories we should display and what makes sense to include in the summaries of those categories.</p>
+
+<p>The Ishtar Collective Podcast aims to capture some of those discussions, and to act as a companion to the content that you can find on the website.</p>
+
+<p>Check out our <a href="/episodes/introduction">Introduction episode</a> to learn more about the podcast itself, or just dive right into an episode.</p>
+
+<p>We hope it helps give a better understanding of Destiny lore, and sparks your curiosity!</p>
+
+<h4>Ways to listen</h4>
+
+<ul>
+<li><a href="https://feeds.soundcloud.com/users/soundcloud:users:236000665/sounds.rss">RSS</a></li>
+<li><a href="https://soundcloud.com/ishtar-collective">SoundCloud</a></li>
+<li><a href="https://geo.itunes.apple.com/us/podcast/the-ishtar-collective/id1185298631?mt=2">iTunes</a></li>
+<li><a href="https://www.podbean.com/podcast-detail/9qdp9-4a5b0/The+Ishtar+Collective">Podbean</a></li>
+<li><a href="https://play.google.com/music/m/Icpjd2vk2yfysmoroyrvb6d4wxi?t=The_Ishtar_Collective">Google Play</a></li>
+</ul>
+
+      </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/asher-mir">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000255318509-efu3sy-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/asher-mir">2017.11.13 — Asher Mir</a></h3>
+            <p class="description">
+              Join baxter and Purple Chimera as they discuss Asher Mir, the cranky Vex-infused Warlock.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/meta-certainty">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000247766644-nhwf6b-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/meta-certainty">2017.10.18 — Meta: Certainty</a></h3>
+            <p class="description">
+              Join baxter, Purple Chimera and Cpt. Kex as they discuss certainty and how it applies to researching Destiny lore.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/hawthorne">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000246166790-xvmg6k-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/hawthorne">2017.10.01 — Hawthorne</a></h3>
+            <p class="description">
+              Join baxter, Purple Chimera and normalnorman as they discuss Suraya Hawthorne and the remnants of humanity.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/destiny-2">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000243689574-084umi-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/destiny-2">2017.09.21 — Destiny 2</a></h3>
+            <p class="description">
+              Join baxter, Purple Chimera and normalnorman as they discuss the launch of Destiny 2! And also what&#39;s in store for Season 2 of the Ishtar Collective podcast.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/meta-research-bias">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000207219937-q0oq1o-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/meta-research-bias">2017.02.10 — Meta: Research Bias</a></h3>
+            <p class="description">
+              Join Purple Chimera as she discusses good research methods, and specifically how to take bias into account when studying lore.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/battle-of-twilight-gap">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000206129792-qx9lfh-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/battle-of-twilight-gap">2017.02.03 — Battle of Twilight Gap</a></h3>
+            <p class="description">
+              Join Baxter and Purple Chimera as they discuss the greatest battle in the history of the City: Twilight Gap.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/books-of-sorrow-analysis">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000205022700-bljxbj-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/books-of-sorrow-analysis">2017.01.27 — Books of Sorrow: Analysis</a></h3>
+            <p class="description">
+              Join Baxter and Purple Chimera as they analyze the Books of Sorrow, delving into its mysteries and trying to answer its questions.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/books-of-sorrow-summary">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000205022036-wz39e7-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/books-of-sorrow-summary">2017.01.27 — Books of Sorrow: Summary</a></h3>
+            <p class="description">
+              Join Baxter and Purple Chimera as they summarize the timeline and the events that take place in the Books of Sorrow while struggling to pronounce the word &quot;syzygy&quot;.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/ares-one">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000203850306-ju6gxx-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/ares-one">2017.01.20 — Ares One</a></h3>
+            <p class="description">
+              Join Purple Chimera and Baxter as they discuss Ares One, the mission to Mars in which Jacob Hardy first encountered the Traveler.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/ishtar-collective">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000202838777-dd46l1-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/ishtar-collective">2017.01.13 — Ishtar Collective</a></h3>
+            <p class="description">
+              Join Baxter, Purple Chimera and Normalnorman as we discuss the Ishtar Collective. Not the website, the in-game Ishtar Collective. It makes sense when you listen to it.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/lords-of-iron">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000201547745-zusl4t-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/lords-of-iron">2017.01.06 — Lords of Iron</a></h3>
+            <p class="description">
+              Join Baxter and Purple Chimera as they discuss the Lords of Iron: Lady Efrideet, Lord Felwinter, Lord Gheleon, Lady Jolder, Lady Perun, Lord Radegast, Lord Saladin, Lord Silimar, Lady Skorri and Lord Timur. Plus some others whose names are less important.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/osiris">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000200614380-npfx1j-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/osiris">2016.12.30 — Osiris</a></h3>
+            <p class="description">
+              Join Baxter and Purple Chimera as they discuss Osiris, the exiled Warlock Vanguard.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/ahamkara">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000199863248-uipvg6-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/ahamkara">2016.12.23 — Ahamkara</a></h3>
+            <p class="description">
+              Join Baxter, Purple Chimera and Normalnorman as they try to figure out whether the Ahamkara are from Venus.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/the-first-crota-fireteam">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000198729690-8hg31w-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/the-first-crota-fireteam">2016.12.16 — The First Crota Fireteam</a></h3>
+            <p class="description">
+              Join Baxter, Purple Chimera and Normalnorman as they discuss the events surrounding Eris Morn&#39;s ill-fated Fireteam.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/introduction">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000197835421-s4nuk8-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h3><a href="/episodes/introduction">2016.12.10 — Introduction</a></h3>
+            <p class="description">
+              The introductory episode for the Ishtar Collective podcast.
+            </p>
+          </div>
+        </div>
+      
+  </div>
+</div>
+
+      
+<div class="grid-11 wrapper footer standard">
+  <div class="col-3 signature">
+    <p>
+      <span class="icon-ishtar"></span>
+      The<br />Ishtar<br />Collective
+    </p>
+  </div>
+  <div class="col-8 grid-8">
+    <div class="col-2 navigation">
+      <em>Archive</em>
+      <ul>
+        <li><a href="/search">Search</a></li>
+        <li><a href="/categories">Categories</a></li>
+        <li>— <a href="/books">Books</a></li>
+        <li><a href="/releases">Releases</a></li>
+        <li>— <a href="/updates">Updates</a></li>
+        <li><a href="/episodes">Episodes</a></li>
+        <li><a href="/timeline">Timeline</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>Documents</em>
+      <ul>
+        <li><a href="/entries">Lore Entries</a></li>
+        <li><a href="/cards">Grimoire Cards</a></li>
+        <li><a href="/transcripts">Transcripts</a></li>
+        <li><a href="/items">Items</a></li>
+        <li>— <a href="/items/artifacts">Artifacts</a></li>
+        <li><a href="/interactions">Interactions</a></li>
+        <li><a href="/records">Records</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>About</em>
+      <ul>
+        <li><a href="/faqs">FAQ</a></li>
+        <li><a href="/sitemap">Sitemap</a></li>
+        <li><a href="/credits">Credits</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>Community</em>
+      <ul>
+        <li><a href="https://www.patreon.com/ishtarcollective">Patreon</a></li>
+        <li><a href="https://commons.ishtar-collective.net">Forum</a></li>
+        <li><a href="https://errata.ishtar-collective.net">Blog</a></li>
+        <li><a href="/discord">Discord</a></li>
+        <li><a href="https://twitter.com/IshtarColl">Twitter</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  </body>
+  <script type="text/javascript">
+    $('.page-home-index .banner h2').boxfit({align_center: false});
+    $('.page-home-index .feature  .title').boxfit({align_center: false});
+  </script>
+</html>

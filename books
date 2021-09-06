@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>Lore Books Archive &mdash; Ishtar Collective &mdash; Destiny Lore by subject</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" media="all" href="/assets/levante/levante-f3a6507845b26dc421c515885a7a96a3ebcae51e9ba66316280c60daa25ceb35.css" data-turbolinks-track="true" />
+    <script src="/assets/levante/levante-3366b85fe91efe719b42f5af8f456c6a9a6fdd931cea175ef180fd072e7f93e4.js" data-turbolinks-track="true"></script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="t2iZDIFnxAFu3tRHw4L0KAFkEujCOqa+4Jnhbm3wnK/qY4w9qQ1Z7eGAxw+FzozUxPBgdePYzWSnuXtzayxsUg==" />
+    <link rel="icon" type="image/png" href="/assets/ishtar_icon-753bf2fc76e448fb82c8db0239f65c581ea5f82c1e6b4a5d308a8c2f047a43bf.png">
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/7ee163eb-2a40-46c5-b504-957fa48df1c8.css"/>
+    <link rel="search" type="application/opensearchdescription+xml" title="Ishtar Collective" href="/opensearch.xml">
+    <link rel="preconnect" href="https://static.ishtar-collective.net/" crossorigin>
+
+<link rel="dns-prefetch" href="https://static.ishtar-collective.net/">
+<link rel="dns-prefetch" href="https://stats.ishtar-collective.net/">
+<link rel="dns-prefetch" href="https://fast.fonts.net/">
+
+    <link rel="icon" sizes="192x192" href="https://static.ishtar-collective.net/icons/ishtar_192.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://static.ishtar-collective.net/icons/ishtar_180.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.ishtar-collective.net/icons/ishtar_152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.ishtar-collective.net/icons/ishtar_144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.ishtar-collective.net/icons/ishtar_120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.ishtar-collective.net/icons/ishtar_114.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.ishtar-collective.net/icons/ishtar_76.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.ishtar-collective.net/icons/ishtar_72.png">
+<link rel="apple-touch-icon-precomposed" href="https://static.ishtar-collective.net/icons/ishtar_57.png">
+
+      <script type="text/javascript" src="https://stats.ishtar-collective.net/stats.js"></script>
+    <meta name='twitter:card' content='summary' />
+<meta name='twitter:site' content='@IshtarColl' />
+<meta name='twitter:description' content='Lore Books from Destiny 2' />
+<meta name='twitter:title' content='Lore Books Archive — Ishtar Collective' />
+<meta name='twitter:image' content='https://static.ishtar-collective.net/icons/ishtar_on_blue.png' />
+<meta name='twitter:url' content='https://www.ishtar-collective.net' />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.ishtar-collective.net","name":"Lore Books Archive — Ishtar Collective","description":"Lore Books from Destiny 2","image":"https://static.ishtar-collective.net/icons/ishtar_on_blue.png","potentialAction":{"@type":"SearchAction","target":"https://www.ishtar-collective.net/search/{search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="description" content="Lore Books from Destiny 2">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://connect.soundcloud.com/sdk/sdk-3.1.2.js"></script>
+
+    <meta property="og:url" content="https://www.ishtar-collective.net/books" /><link href="https://www.ishtar-collective.net/books" rel="canonical" />  </head>
+  <body class="
+    page-categories page-categories-books
+    ">
+
+
+    <div class="header">
+      <div class="menu-control">
+        <span>&#9776;</span>
+      </div>
+      <ul>
+        <li class="home">
+          <a class="header-icon " href="/"><span class="icon-ishtar"></span></a>
+          <a href="/"><span class="text-ishtar">The Ishtar Collective</span></a>
+        </li>
+        <li><a href="/categories">Categories</a></li>
+        <li><a href="/releases">Releases</a></li>
+        <li><a href="/books">Books</a></li>
+        <li><a href="/episodes">Episodes</a></li>
+        <li><a href="https://errata.ishtar-collective.net">Blog</a></li>
+        <li><a href="https://commons.ishtar-collective.net">Forum</a></li>
+        <li><a href="/timeline">Timeline</a></li>
+        <li><a href="https://store.ishtar-collective.net">Store</a></li>
+        <li class="search">
+          <form class="navbar-form" role="search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+            <div class="form-group">
+              <input type="text" name="ishtar_header_search" id="ishtar_header_search" placeholder="SEARCH" class="form-control" required="required" />
+            </div>
+</form>        </li>
+      </ul>
+    </div>
+    <script>
+      try {
+        IshtarStats.recordPageview();
+      } catch(e) {}
+    </script>
+    
+<div class="grid-11 wrapper">
+  <div class="col-3 sidebar">
+    <div class="sticky">
+      <h2>Lore Books</h2>
+      <p>
+        Certain Lore Entries are bound together to form Lore Books.
+      </p>
+      <p>
+        Books by release:
+      </p>
+      <ul>
+          <li>
+            <span class="release-icon release-season-of-the-lost-inverted"></span><a href="#season-of-the-lost">Season of the Lost</a> (1)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-the-splicer-inverted"></span><a href="#season-of-the-splicer">Season of the Splicer</a> (3)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-the-chosen-inverted"></span><a href="#season-of-the-chosen">Season of the Chosen</a> (3)
+          </li>
+          <li>
+            <span class="release-icon release-beyond-light-inverted"></span><a href="#beyond-light">Beyond Light</a> (8)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-arrivals-inverted"></span><a href="#season-of-arrivals">Season of Arrivals</a> (2)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-the-worthy-inverted"></span><a href="#season-of-the-worthy">Season of the Worthy</a> (2)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-dawn-inverted"></span><a href="#season-of-dawn">Season of Dawn</a> (2)
+          </li>
+          <li>
+            <span class="release-icon release-shadowkeep-inverted"></span><a href="#shadowkeep">Shadowkeep</a> (7)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-opulence-inverted"></span><a href="#season-of-opulence">Season of Opulence</a> (3)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-the-drifter-inverted"></span><a href="#season-of-the-drifter">Season of the Drifter</a> (6)
+          </li>
+          <li>
+            <span class="release-icon release-season-of-the-forge-inverted"></span><a href="#season-of-the-forge">Season of the Forge</a> (4)
+          </li>
+          <li>
+            <span class="release-icon release-forsaken-inverted"></span><a href="#forsaken">Forsaken</a> (12)
+          </li>
+          <li>
+            <span class="release-icon release-the-taken-king-inverted"></span><a href="#the-taken-king">The Taken King</a> (1)
+          </li>
+          <li>
+            <span class="release-icon release-house-of-wolves-inverted"></span><a href="#house-of-wolves">House of Wolves</a> (1)
+          </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-8">
+      <h2 class="grid-8" id="season-of-the-lost">
+        <span class="col-1 release-icon release-season-of-the-lost-inverted"></span>
+        <span class="col-7">Season of the Lost</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-ripples">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-ripples.png" alt="Cover of Ripples">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-ripples">Ripples</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-ripples">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-the-splicer">
+        <span class="col-1 release-icon release-season-of-the-splicer-inverted"></span>
+        <span class="col-7">Season of the Splicer</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-achilles-weaves-a-cocoon">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-achilles-weaves-a-cocoon.png" alt="Cover of Achilles Weaves a Cocoon">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-achilles-weaves-a-cocoon">Achilles Weaves a Cocoon</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-achilles-weaves-a-cocoon">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-beneath-the-endless-night">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-beneath-the-endless-night.png" alt="Cover of Beneath the Endless Night">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-beneath-the-endless-night">Beneath the Endless Night</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-beneath-the-endless-night">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-pathfinding">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-pathfinding.png" alt="Cover of Pathfinding">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-pathfinding">Pathfinding</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-pathfinding">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-the-chosen">
+        <span class="col-1 release-icon release-season-of-the-chosen-inverted"></span>
+        <span class="col-7">Season of the Chosen</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-captains-log">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-captains-log.png" alt="Cover of Captain&#39;s Log">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-captains-log">Captain&#39;s Log</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-captains-log">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-empress">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-empress.png" alt="Cover of Empress">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-empress">Empress</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-empress">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-from-the-front">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-from-the-front.png" alt="Cover of From the Front">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-from-the-front">From the Front</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-from-the-front">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="beyond-light">
+        <span class="col-1 release-icon release-beyond-light-inverted"></span>
+        <span class="col-7">Beyond Light</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-bray-lab-records-confidential">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-bray-lab-records-confidential.png" alt="Cover of Bray Lab Records - CONFIDENTIAL">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-bray-lab-records-confidential">Bray Lab Records - CONFIDENTIAL</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-bray-lab-records-confidential">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-call-of-the-cryptolith">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-call-of-the-cryptolith.png" alt="Cover of Call of the Cryptolith">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-call-of-the-cryptolith">Call of the Cryptolith</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-call-of-the-cryptolith">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-dark-future">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-dark-future.png" alt="Cover of The Dark Future">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-dark-future">The Dark Future</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-dark-future">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-legacys-lament">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-legacys-lament.png" alt="Cover of Legacy&#39;s Lament">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-legacys-lament">Legacy&#39;s Lament</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-legacys-lament">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-once-shipstealer">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-once-shipstealer.png" alt="Cover of The Once-Shipstealer">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-once-shipstealer">The Once-Shipstealer</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-once-shipstealer">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-regarding-stasis">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-regarding-stasis.png" alt="Cover of Regarding Stasis">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-regarding-stasis">Regarding Stasis</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-regarding-stasis">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-a-tangled-web">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-a-tangled-web.png" alt="Cover of A Tangled Web">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-a-tangled-web">A Tangled Web</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-a-tangled-web">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-your-friend-micah-abram">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-your-friend-micah-abram.png" alt="Cover of Your Friend, Micah Abram">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-your-friend-micah-abram">Your Friend, Micah Abram</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-your-friend-micah-abram">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-arrivals">
+        <span class="col-1 release-icon release-season-of-arrivals-inverted"></span>
+        <span class="col-7">Season of Arrivals</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-duress-and-egress">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-duress-and-egress.png" alt="Cover of Duress and Egress">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-duress-and-egress">Duress and Egress</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-duress-and-egress">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-singular-exegete">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-singular-exegete.png" alt="Cover of The Singular Exegete">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-singular-exegete">The Singular Exegete</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-singular-exegete">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-the-worthy">
+        <span class="col-1 release-icon release-season-of-the-worthy-inverted"></span>
+        <span class="col-7">Season of the Worthy</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-liar">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-liar.png" alt="Cover of The Liar">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-liar">The Liar</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-liar">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-trials-and-tribulations">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-trials-and-tribulations.png" alt="Cover of Trials and Tribulations">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-trials-and-tribulations">Trials and Tribulations</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-trials-and-tribulations">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-dawn">
+        <span class="col-1 release-icon release-season-of-dawn-inverted"></span>
+        <span class="col-7">Season of Dawn</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-constellations">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-constellations.png" alt="Cover of Constellations">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-constellations">Constellations</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-constellations">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-pigeon-and-the-phoenix">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-pigeon-and-the-phoenix.png" alt="Cover of The Pigeon and the Phoenix">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-pigeon-and-the-phoenix">The Pigeon and the Phoenix</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-pigeon-and-the-phoenix">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="shadowkeep">
+        <span class="col-1 release-icon release-shadowkeep-inverted"></span>
+        <span class="col-7">Shadowkeep</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-aspect">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-aspect.png" alt="Cover of Aspect">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-aspect">Aspect</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-aspect">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-inquisition-of-the-damned">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-inquisition-of-the-damned.png" alt="Cover of Inquisition of the Damned">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-inquisition-of-the-damned">Inquisition of the Damned</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-inquisition-of-the-damned">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-last-days-on-kraken-mare">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-last-days-on-kraken-mare.png" alt="Cover of Last Days on Kraken Mare">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-last-days-on-kraken-mare">Last Days on Kraken Mare</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-last-days-on-kraken-mare">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-letters-from-eris">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-letters-from-eris.png" alt="Cover of Letters from Eris">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-letters-from-eris">Letters from Eris</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-letters-from-eris">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-lunas-lost">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-lunas-lost.png" alt="Cover of Luna&#39;s Lost">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-lunas-lost">Luna&#39;s Lost</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-lunas-lost">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-revelation">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-revelation.png" alt="Cover of Revelation">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-revelation">Revelation</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-revelation">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-unveiling">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-unveiling.png" alt="Cover of Unveiling">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-unveiling">Unveiling</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-unveiling">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-opulence">
+        <span class="col-1 release-icon release-season-of-opulence-inverted"></span>
+        <span class="col-7">Season of Opulence</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-chronicon">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-chronicon.png" alt="Cover of The Chronicon">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-chronicon">The Chronicon</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-chronicon">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-confessions">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-confessions.png" alt="Cover of Confessions">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-confessions">Confessions</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-confessions">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-nothing-ends">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-nothing-ends.png" alt="Cover of Nothing Ends">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-nothing-ends">Nothing Ends</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-nothing-ends">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-the-drifter">
+        <span class="col-1 release-icon release-season-of-the-drifter-inverted"></span>
+        <span class="col-7">Season of the Drifter</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-dust">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-dust.png" alt="Cover of Dust">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-dust">Dust</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-dust">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-ecdysis">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-ecdysis.png" alt="Cover of Ecdysis">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-ecdysis">Ecdysis</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-ecdysis">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-for-every-rose-a-thorn">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-for-every-rose-a-thorn.png" alt="Cover of For Every Rose, a Thorn">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-for-every-rose-a-thorn">For Every Rose, a Thorn</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-for-every-rose-a-thorn">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-a-man-with-no-name">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-a-man-with-no-name.png" alt="Cover of A Man with No Name">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-a-man-with-no-name">A Man with No Name</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-a-man-with-no-name">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-stolen-intelligence">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-stolen-intelligence.png" alt="Cover of Stolen Intelligence">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-stolen-intelligence">Stolen Intelligence</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-stolen-intelligence">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-warlock-aunor">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-warlock-aunor.png" alt="Cover of The Warlock Aunor">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-warlock-aunor">The Warlock Aunor</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-warlock-aunor">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="season-of-the-forge">
+        <span class="col-1 release-icon release-season-of-the-forge-inverted"></span>
+        <span class="col-7">Season of the Forge</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-black-armory-papers">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-black-armory-papers.png" alt="Cover of The Black Armory Papers">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-black-armory-papers">The Black Armory Papers</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-black-armory-papers">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-book-of-unmaking">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-book-of-unmaking.png" alt="Cover of The Book of Unmaking">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-book-of-unmaking">The Book of Unmaking</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-the-book-of-unmaking">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-dawning-delights">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-dawning-delights.png" alt="Cover of Dawning Delights">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-dawning-delights">Dawning Delights</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-dawning-delights">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-letters-from-a-renegade">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-letters-from-a-renegade.png" alt="Cover of Letters from a Renegade">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-letters-from-a-renegade">Letters from a Renegade</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-letters-from-a-renegade">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="forsaken">
+        <span class="col-1 release-icon release-forsaken-inverted"></span>
+        <span class="col-7">Forsaken</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-awoken-of-the-reef">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-awoken-of-the-reef.png" alt="Cover of The Awoken of the Reef">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-awoken-of-the-reef">The Awoken of the Reef</a></h3>
+              <p>The Awoken&#39;s return to Sol, where Queen Mara Sov&#39;s plans and the Awoken&#39;s history up to and after the Battle of Saturn are documented. </p>
+              <p class="read-more"><a href="/categories/book-the-awoken-of-the-reef">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-dreaming-city">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-dreaming-city.png" alt="Cover of The Dreaming City">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-dreaming-city">The Dreaming City</a></h3>
+              <p>The creation of the Dreaming City and Eleusinia, as well as the stories of the Awoken in and around the Dreaming City. </p>
+              <p class="read-more"><a href="/categories/book-the-dreaming-city">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-a-drifters-gambit">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-a-drifters-gambit.png" alt="Cover of A Drifter&#39;s Gambit">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-a-drifters-gambit">A Drifter&#39;s Gambit</a></h3>
+              <p>The Drifter&#39;s journey from past the Reef to the new Tower, as told by a Renegade.</p>
+              <p class="read-more"><a href="/categories/book-a-drifters-gambit">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-evas-journey">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-evas-journey.png" alt="Cover of Eva&#39;s Journey">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-evas-journey">Eva&#39;s Journey</a></h3>
+              <p>The story of Eva Levante&#39;s journey during the Red War.</p>
+              <p class="read-more"><a href="/categories/book-evas-journey">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-forsaken-prince">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-forsaken-prince.png" alt="Cover of The Forsaken Prince">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-forsaken-prince">The Forsaken Prince</a></h3>
+              <p>Uldren Sov&#39;s history, from his discovery of the Black Garden to his madness and imprisonment in the Prison of Elders. </p>
+              <p class="read-more"><a href="/categories/book-the-forsaken-prince">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-ghost-stories">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-ghost-stories.png" alt="Cover of Ghost Stories">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-ghost-stories">Ghost Stories</a></h3>
+              <p>A collection of stories told by Ghosts — some who have found their Guardian, and some who have not.</p>
+              <p class="read-more"><a href="/categories/book-ghost-stories">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-lawless-frontier">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-lawless-frontier.png" alt="Cover of The Lawless Frontier">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-lawless-frontier">The Lawless Frontier</a></h3>
+              <p>The tales of each of the Scorned Barons and the Tangled Shore itself. </p>
+              <p class="read-more"><a href="/categories/book-the-lawless-frontier">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-the-man-they-call-cayde">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-the-man-they-call-cayde.png" alt="Cover of The Man They Call Cayde">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-the-man-they-call-cayde">The Man They Call Cayde</a></h3>
+              <p>A collection of Cayde&#39;s memoirs over his time as a Guardian.</p>
+              <p class="read-more"><a href="/categories/book-the-man-they-call-cayde">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-marasenna">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-marasenna.png" alt="Cover of Marasenna">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-marasenna">Marasenna</a></h3>
+              <p>The Marasenna catalogs the creation of the Awoken, including the creation of the Distributary and the Awoken&#39;s history until some left for Sol under the command of Mara Sov. </p>
+              <p class="read-more"><a href="/categories/book-marasenna">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-most-loyal">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-most-loyal.png" alt="Cover of Most Loyal">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-most-loyal">Most Loyal</a></h3>
+              <p>The story of Variks and the Prison of Elders, from the beginning of the Red War to the mass prison break and the escape of the Barons.</p>
+              <p class="read-more"><a href="/categories/book-most-loyal">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-truth-to-power">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-truth-to-power.png" alt="Cover of Truth to Power">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-truth-to-power">Truth to Power</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/book-truth-to-power">Read more</a></p>
+            </div>
+          </div>
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/book-wall-of-wishes">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/book-wall-of-wishes.png" alt="Cover of Wall of Wishes">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/book-wall-of-wishes">Wall of Wishes</a></h3>
+              <p>Riven&#39;s fifteen wishes, granted by the Wall of Wishes. </p>
+              <p class="read-more"><a href="/categories/book-wall-of-wishes">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="the-taken-king">
+        <span class="col-1 release-icon release-the-taken-king-inverted"></span>
+        <span class="col-7">The Taken King</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/books-of-sorrow">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/books-of-sorrow.png" alt="Cover of Books of Sorrow">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/books-of-sorrow">Books of Sorrow</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/books-of-sorrow">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+      <h2 class="grid-8" id="house-of-wolves">
+        <span class="col-1 release-icon release-house-of-wolves-inverted"></span>
+        <span class="col-7">House of Wolves</span>
+      </h2>
+      <div class="grid-8">
+          <div class="book col-4 grid-4">
+            <div class=" col-1 book-icon">
+              <a href="/categories/the-maraid">
+                <img class="lazy slide-up" src="https://static.ishtar-collective.net/icons/spinner.svg" data-src="https://static.ishtar-collective.net/books/the-maraid.png" alt="Cover of The Maraid">
+              </a>
+            </div>
+            <div class="col-3 book-description">
+              <h3><a href="/categories/the-maraid">The Maraid</a></h3>
+              <p></p>
+              <p class="read-more"><a href="/categories/the-maraid">Read more</a></p>
+            </div>
+          </div>
+      </div>
+      <br />
+  </div>
+</div>
+
+      
+<div class="grid-11 wrapper footer standard">
+  <div class="col-3 signature">
+    <p>
+      <span class="icon-ishtar"></span>
+      The<br />Ishtar<br />Collective
+    </p>
+  </div>
+  <div class="col-8 grid-8">
+    <div class="col-2 navigation">
+      <em>Archive</em>
+      <ul>
+        <li><a href="/search">Search</a></li>
+        <li><a href="/categories">Categories</a></li>
+        <li>— <a href="/books">Books</a></li>
+        <li><a href="/releases">Releases</a></li>
+        <li>— <a href="/updates">Updates</a></li>
+        <li><a href="/episodes">Episodes</a></li>
+        <li><a href="/timeline">Timeline</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>Documents</em>
+      <ul>
+        <li><a href="/entries">Lore Entries</a></li>
+        <li><a href="/cards">Grimoire Cards</a></li>
+        <li><a href="/transcripts">Transcripts</a></li>
+        <li><a href="/items">Items</a></li>
+        <li>— <a href="/items/artifacts">Artifacts</a></li>
+        <li><a href="/interactions">Interactions</a></li>
+        <li><a href="/records">Records</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>About</em>
+      <ul>
+        <li><a href="/faqs">FAQ</a></li>
+        <li><a href="/sitemap">Sitemap</a></li>
+        <li><a href="/credits">Credits</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>Community</em>
+      <ul>
+        <li><a href="https://www.patreon.com/ishtarcollective">Patreon</a></li>
+        <li><a href="https://commons.ishtar-collective.net">Forum</a></li>
+        <li><a href="https://errata.ishtar-collective.net">Blog</a></li>
+        <li><a href="/discord">Discord</a></li>
+        <li><a href="https://twitter.com/IshtarColl">Twitter</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  </body>
+  <script type="text/javascript">
+    $('.page-home-index .banner h2').boxfit({align_center: false});
+    $('.page-home-index .feature  .title').boxfit({align_center: false});
+  </script>
+</html>

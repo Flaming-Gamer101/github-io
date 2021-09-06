@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <title>Episode Archive &mdash; Ishtar Collective &mdash; Destiny Lore by subject</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" media="all" href="/assets/levante/levante-f3a6507845b26dc421c515885a7a96a3ebcae51e9ba66316280c60daa25ceb35.css" data-turbolinks-track="true" />
+    <script src="/assets/levante/levante-3366b85fe91efe719b42f5af8f456c6a9a6fdd931cea175ef180fd072e7f93e4.js" data-turbolinks-track="true"></script>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="ETgE1cYgjINfXXmQTWd8C97GGiHUWPlq+bLw68uoDJLr/BE23sgO1jHtkQixI+RESi8x1DYptotEOA2ieYYLmg==" />
+    <link rel="icon" type="image/png" href="/assets/ishtar_icon-753bf2fc76e448fb82c8db0239f65c581ea5f82c1e6b4a5d308a8c2f047a43bf.png">
+    <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/7ee163eb-2a40-46c5-b504-957fa48df1c8.css"/>
+    <link rel="search" type="application/opensearchdescription+xml" title="Ishtar Collective" href="/opensearch.xml">
+    <link rel="preconnect" href="https://static.ishtar-collective.net/" crossorigin>
+
+<link rel="dns-prefetch" href="https://static.ishtar-collective.net/">
+<link rel="dns-prefetch" href="https://stats.ishtar-collective.net/">
+<link rel="dns-prefetch" href="https://fast.fonts.net/">
+
+    <link rel="icon" sizes="192x192" href="https://static.ishtar-collective.net/icons/ishtar_192.png">
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://static.ishtar-collective.net/icons/ishtar_180.png">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.ishtar-collective.net/icons/ishtar_152.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://static.ishtar-collective.net/icons/ishtar_144.png">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.ishtar-collective.net/icons/ishtar_120.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://static.ishtar-collective.net/icons/ishtar_114.png">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.ishtar-collective.net/icons/ishtar_76.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://static.ishtar-collective.net/icons/ishtar_72.png">
+<link rel="apple-touch-icon-precomposed" href="https://static.ishtar-collective.net/icons/ishtar_57.png">
+
+      <script type="text/javascript" src="https://stats.ishtar-collective.net/stats.js"></script>
+    <meta name='twitter:card' content='summary' />
+<meta name='twitter:site' content='@IshtarColl' />
+<meta name='twitter:description' content='Destiny Lore by subject' />
+<meta name='twitter:title' content='Ishtar Collective' />
+<meta name='twitter:url' content='https://www.ishtar-collective.net' />
+<meta name='twitter:image' content='https://static.ishtar-collective.net/icons/ishtar_on_blue.png' />
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"WebSite","url":"https://www.ishtar-collective.net","name":"Ishtar Collective","description":"Destiny Lore by subject","image":"https://static.ishtar-collective.net/icons/ishtar_on_blue.png","potentialAction":{"@type":"SearchAction","target":"https://www.ishtar-collective.net/search/{search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="description" content="Destiny Lore by subject">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://connect.soundcloud.com/sdk/sdk-3.1.2.js"></script>
+
+    <meta property="og:url" content="https://www.ishtar-collective.net/episodes/" /><link href="https://www.ishtar-collective.net/episodes/" rel="canonical" />  </head>
+  <body class="
+    page-episodes page-episodes-index
+    ">
+
+
+    <div class="header">
+      <div class="menu-control">
+        <span>&#9776;</span>
+      </div>
+      <ul>
+        <li class="home">
+          <a class="header-icon " href="/"><span class="icon-ishtar"></span></a>
+          <a href="/"><span class="text-ishtar">The Ishtar Collective</span></a>
+        </li>
+        <li><a href="/categories">Categories</a></li>
+        <li><a href="/releases">Releases</a></li>
+        <li><a href="/books">Books</a></li>
+        <li><a href="/episodes">Episodes</a></li>
+        <li><a href="https://errata.ishtar-collective.net">Blog</a></li>
+        <li><a href="https://commons.ishtar-collective.net">Forum</a></li>
+        <li><a href="/timeline">Timeline</a></li>
+        <li><a href="https://store.ishtar-collective.net">Store</a></li>
+        <li class="search">
+          <form class="navbar-form" role="search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+            <div class="form-group">
+              <input type="text" name="ishtar_header_search" id="ishtar_header_search" placeholder="SEARCH" class="form-control" required="required" />
+            </div>
+</form>        </li>
+      </ul>
+    </div>
+    <script>
+      try {
+        IshtarStats.recordPageview();
+      } catch(e) {}
+    </script>
+    
+<div class="grid-11 wrapper">
+  <div class="col-3">
+    <h2>Episode Archive</h2>
+    <p>Episodes from the following series:</p>
+    <ul>
+        <li><a href="/series/quarterly-lore-review">Quarterly Lore Review</a></li>
+        <li><a href="/series/guardiancon-lore-panels">GuardianCon / GCX Lore Panels</a></li>
+        <li><a href="/series/podcast">Ishtar Collective Podcast</a></li>
+    </ul>
+  </div>
+  <div class="col-8">
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/quarterly-lore-review-2020-q1">
+              <img class="lazy" data-src="https://static.ishtar-collective.net/banners/the_lore_network.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/quarterly-lore-review">Quarterly Lore Review</a></h4>
+            <h3><a href="/episodes/quarterly-lore-review-2020-q1">2020.02.23 — Quarterly Lore Review, 2020 Q1</a></h3>
+            <p class="description">
+              Join The Lore Network as we answer your questions about Season of Dawn.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/quarterly-lore-review-2019-q4">
+              <img class="lazy" data-src="https://static.ishtar-collective.net/banners/the_lore_network.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/quarterly-lore-review">Quarterly Lore Review</a></h4>
+            <h3><a href="/episodes/quarterly-lore-review-2019-q4">2019.11.17 — Quarterly Lore Review, 2019 Q4</a></h3>
+            <p class="description">
+              Join MyNameIsByf, Focused Fire Chat, Loose Canon, Guardians of Lore and the Ishtar Collective as we answer community questions following the launch of Shadowkeep.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/qlr-introduction">
+              <img class="lazy" data-src="https://static.ishtar-collective.net/banners/the_lore_network.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/quarterly-lore-review">Quarterly Lore Review</a></h4>
+            <h3><a href="/episodes/qlr-introduction">2019.09.08 — Quarterly Lore Review — Introduction</a></h3>
+            <p class="description">
+              The Lore Network introduces Quarterly Lore Review. Join MyNameIsByf, Myelin Games, Focused Fire Chat, Loose Canon and the Ishtar Collective as we answer questions from the community.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/lore-panel-2019">
+              <img class="lazy" data-src="https://static.ishtar-collective.net/banners/actual_lore_panel_2019.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/guardiancon-lore-panels">GuardianCon / GCX Lore Panels</a></h4>
+            <h3><a href="/episodes/lore-panel-2019">2019.07.04 — Lore Panel, 2019</a></h3>
+            <p class="description">
+              Join MyNameIsByf, BlueCrew86, Myelin Games, grneyedmusiklvr, and baxter as they talk to Jonathan To of Bungie, and answer questions from the audience at GuardianCon 2019.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/post-lore-panel-2019">
+              <img class="lazy" data-src="https://static.ishtar-collective.net/banners/lore_panel_2019.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/guardiancon-lore-panels">GuardianCon / GCX Lore Panels</a></h4>
+            <h3><a href="/episodes/post-lore-panel-2019">2019.07.04 — Post-Lore Panel, 2019</a></h3>
+            <p class="description">
+              We met up with some of the most prominent people in the world of Destiny lore to answer questions submitted by the community.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/post-lore-panel-2018">
+              <img class="lazy" data-src="https://static.ishtar-collective.net/banners/post_lore_panel_2018.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/guardiancon-lore-panels">GuardianCon / GCX Lore Panels</a></h4>
+            <h3><a href="/episodes/post-lore-panel-2018">2018.07.14 — Post-Lore Panel, 2018</a></h3>
+            <p class="description">
+              
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/asher-mir">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000255318509-efu3sy-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/podcast">Ishtar Collective Podcast</a></h4>
+            <h3><a href="/episodes/asher-mir">2017.11.13 — Asher Mir</a></h3>
+            <p class="description">
+              Join baxter and Purple Chimera as they discuss Asher Mir, the cranky Vex-infused Warlock.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/meta-certainty">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000247766644-nhwf6b-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/podcast">Ishtar Collective Podcast</a></h4>
+            <h3><a href="/episodes/meta-certainty">2017.10.18 — Meta: Certainty</a></h3>
+            <p class="description">
+              Join baxter, Purple Chimera and Cpt. Kex as they discuss certainty and how it applies to researching Destiny lore.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/hawthorne">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000246166790-xvmg6k-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/podcast">Ishtar Collective Podcast</a></h4>
+            <h3><a href="/episodes/hawthorne">2017.10.01 — Hawthorne</a></h3>
+            <p class="description">
+              Join baxter, Purple Chimera and normalnorman as they discuss Suraya Hawthorne and the remnants of humanity.
+            </p>
+          </div>
+        </div>
+        <div class="episode grid-8">
+          <div class="episode-artwork col-3">
+            <a href="/episodes/destiny-2">
+              <img class="lazy" data-src="https://i1.sndcdn.com/artworks-000243689574-084umi-t500x500.jpg" />
+            </a>
+          </div>
+
+          <div class="episode-description col-5">
+            <h4 class="series"><a href="/series/podcast">Ishtar Collective Podcast</a></h4>
+            <h3><a href="/episodes/destiny-2">2017.09.21 — Destiny 2</a></h3>
+            <p class="description">
+              Join baxter, Purple Chimera and normalnorman as they discuss the launch of Destiny 2! And also what&#39;s in store for Season 2 of the Ishtar Collective podcast.
+            </p>
+          </div>
+        </div>
+          <nav role="navigation" class="col-8" aria-label="pagination">
+      <ul class="pagination">
+        
+        
+              <li class='active'>
+    <a remote="false" aria-current="page" aria-label="Go to page 1">1</a>
+  </li>
+
+              <li>
+    <a rel="next" aria-label="Go to page 2" href="/episodes?page=2">2</a>
+  </li>
+
+              <li>
+    <a aria-label="Go to page 3" href="/episodes?page=3">3</a>
+  </li>
+
+        <li>
+  <a rel="next" aria-label="Go to next page" href="/episodes?page=2">Next &rsaquo;</a>
+</li>
+
+        <li>
+  <a aria-label="Go to last page" href="/episodes?page=3">Last &raquo;</a>
+</li>
+
+      </ul>
+    </nav>
+
+  </div>
+</div>
+
+      
+<div class="grid-11 wrapper footer standard">
+  <div class="col-3 signature">
+    <p>
+      <span class="icon-ishtar"></span>
+      The<br />Ishtar<br />Collective
+    </p>
+  </div>
+  <div class="col-8 grid-8">
+    <div class="col-2 navigation">
+      <em>Archive</em>
+      <ul>
+        <li><a href="/search">Search</a></li>
+        <li><a href="/categories">Categories</a></li>
+        <li>— <a href="/books">Books</a></li>
+        <li><a href="/releases">Releases</a></li>
+        <li>— <a href="/updates">Updates</a></li>
+        <li><a href="/episodes">Episodes</a></li>
+        <li><a href="/timeline">Timeline</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>Documents</em>
+      <ul>
+        <li><a href="/entries">Lore Entries</a></li>
+        <li><a href="/cards">Grimoire Cards</a></li>
+        <li><a href="/transcripts">Transcripts</a></li>
+        <li><a href="/items">Items</a></li>
+        <li>— <a href="/items/artifacts">Artifacts</a></li>
+        <li><a href="/interactions">Interactions</a></li>
+        <li><a href="/records">Records</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>About</em>
+      <ul>
+        <li><a href="/faqs">FAQ</a></li>
+        <li><a href="/sitemap">Sitemap</a></li>
+        <li><a href="/credits">Credits</a></li>
+      </ul>
+    </div>
+    <div class="col-2 navigation">
+      <em>Community</em>
+      <ul>
+        <li><a href="https://www.patreon.com/ishtarcollective">Patreon</a></li>
+        <li><a href="https://commons.ishtar-collective.net">Forum</a></li>
+        <li><a href="https://errata.ishtar-collective.net">Blog</a></li>
+        <li><a href="/discord">Discord</a></li>
+        <li><a href="https://twitter.com/IshtarColl">Twitter</a></li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+  </body>
+  <script type="text/javascript">
+    $('.page-home-index .banner h2').boxfit({align_center: false});
+    $('.page-home-index .feature  .title').boxfit({align_center: false});
+  </script>
+</html>

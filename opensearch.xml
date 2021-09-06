@@ -1,0 +1,8 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Ishtar Collective</ShortName>
+  <Description>Search the Ishtar Collective</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="57" height="57" type="image/png">https://static.ishtar-collective.net/icons/ishtar_57.png</Image>
+  <Url type="text/html" method="get" template="https://www.ishtar-collective.net/search/{searchTerms}"/>
+  <moz:SearchForm>https://www.ishtar-collective.net/search</moz:SearchForm>
+</OpenSearchDescription>
